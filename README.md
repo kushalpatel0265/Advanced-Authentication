@@ -204,5 +204,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - **Author:** Kushal Patel
-- **Email:** kushalpatel0265@example.com
+- **Email:** kushalpatel0265@gmail.com
 - **GitHub:** [kushalpatel0265](https://github.com/kushalpatel0265)
