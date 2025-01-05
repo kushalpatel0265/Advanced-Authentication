@@ -1,7 +1,7 @@
 # Advanced Authentication MERN & Next.js
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Stars](https://img.shields.io/github/stars/kushalpatel0265/Advanced-Authentication-MERN-Next.js?style=social)
+![Stars](https://img.shields.io/github/stars/kushalpatel0265/Advanced-Authentication?style=social)
 
 ## Table of Contents
 
