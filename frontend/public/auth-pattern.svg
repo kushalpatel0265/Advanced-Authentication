@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 0.000000)" fill="#FFFFFF">
+            <circle opacity="0.1" cx="400" cy="400" r="400"></circle>
+            <circle opacity="0.1" cx="400" cy="400" r="300"></circle>
+            <circle opacity="0.1" cx="400" cy="400" r="200"></circle>
+            <circle opacity="0.1" cx="400" cy="400" r="100"></circle>
+            <path d="M600,400 C600,510.457 510.457,600 400,600 C289.543,600 200,510.457 200,400 C200,289.543 289.543,200 400,200 C510.457,200 600,289.543 600,400" opacity="0.1"></path>
+            <path d="M500,400 C500,455.228 455.228,500 400,500 C344.772,500 300,455.228 300,400 C300,344.772 344.772,300 400,300 C455.228,300 500,344.772 500,400" opacity="0.1"></path>
+        </g>
+    </g>
+</svg>
