@@ -7,7 +7,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -31,11 +30,6 @@ Welcome to the **Advanced Authentication MERN & Next.js** repository! This proje
 - **Protected Routes:** Restricts access to certain pages based on authentication status.
 - **Responsive UI:** Built with Next.js and React for a seamless user experience across devices.
 
-## Demo
-
-![Authentication Flow](./assets/auth-flow.png)
-
-*Screenshot showcasing the authentication flow.*
 
 ## Technologies Used
 
